@@ -1,2 +1,2 @@
+# Data Visualization Course Project
 2018 Fall Stat 842 @UWaterloo 
-Data Visualization Course Project
